@@ -127,31 +127,68 @@
 
 //2
 
-var num1 = 5;
-var num2 = 10;
-var sum = num1 - num2;
+// var num1 = 5;
+// var num2 = 10;
+// var sum = num1 - num2;
 
-document.write("Sum of " + num1 + " " + "subtracted from " + num2 + " " + "is " + sum);
-document.write("<br>");
+// document.write("Sum of " + num1 + " " + "subtracted from " + num2 + " " + "is " + sum);
+// document.write("<br>");
 
-var num1 = 5;
-var num2 = 10;
-var sum = num1 * num2;
+// var num1 = 5;
+// var num2 = 10;
+// var sum = num1 * num2;
 
-document.write("Sum of " + num1 + " " + "multiplied by " + num2 + " " + "is " + sum);
-document.write("<br>");
+// document.write("Sum of " + num1 + " " + "multiplied by " + num2 + " " + "is " + sum);
+// document.write("<br>");
 
-var num1 = 5;
-var num2 = 10;
-var sum = num1 / num2;
+// var num1 = 5;
+// var num2 = 10;
+// var sum = num1 / num2;
 
-document.write("Sum of " + num1 + " " + "divided by " + num2 + " " + "is " + sum);
-document.write("<br>");
+// document.write("Sum of " + num1 + " " + "divided by " + num2 + " " + "is " + sum);
+// document.write("<br>");
 
-var num1 = 5;
-var num2 = 10;
-var sum = num1 % num2;
+// var num1 = 5;
+// var num2 = 10;
+// var sum = num1 % num2;
 
-document.write("Sum of " + num1 + " " + "modulo " + num2 + " " + "is " + sum);
-document.write("<br>");
+// document.write("Sum of " + num1 + " " + "modulo " + num2 + " " + "is " + sum);
+// document.write("<br>");
 
+//3
+
+// var number;
+// document.write("Value after variable declaration is: " + number);
+
+// number = 5 ;
+// document.write("<br>")
+// document.write("Initial value: " + number)
+
+// number = ++number;
+// document.write("<br>")
+// document.write("Value after increment is: " + number);
+
+// number = number + 7;
+// document.write("<br>")
+// document.write("Value after addition is: " + number);
+
+// number = --number;
+// document.write("<br>")
+// document.write("Value after decrement is: " + number);
+
+// number = number % 3;
+// document.write("<br>")
+// document.write("The remainder is: " + number);
+
+//4
+
+// var ticketPrice = 600;
+// var totalCost = ticketPrice * 5;
+
+// document.write("Total Cost to buy 5 Tickets to a movie is " + totalCost + "PKR")
+
+//5
+
+// for(var i = 1; i <=10; i++){
+//     document.write("4" + "x" + i + "=" + 4*i + "<br>")
+// }
